@@ -1,5 +1,5 @@
 # Price-Predictor-
-from sklearn.liinear_model import LinearRegression
+from sklearn.linear_model import LinearRegression
 import numpy as np
 
 x = np.array([[1500,3,2],[2000,4,3],[1200,2,3],[1800,3,2],[2500,4,3]])
